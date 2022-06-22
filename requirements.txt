@@ -34,7 +34,7 @@ nbformat==5.0.6
 networkx==2.4
 notebook==6.4.10
 numba==0.49.0
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 pandas-profiling==2.6.0
 pandocfilters==1.4.2
@@ -112,7 +112,7 @@ nbformat==5.0.6
 networkx==2.4
 notebook==6.4.10
 numba==0.49.0
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 pandas-profiling==2.6.0
 pandocfilters==1.4.2
